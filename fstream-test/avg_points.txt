@@ -1,0 +1,11 @@
+РПМ: Danil	18	RPO	5
+Тес: Danil	18	RPO	5
+Мат: Danil	18	RPO	5
+РПМ: Artem	20	RPO	5
+Тес: Artem	20	RPO	5
+Мат: Artem	20	RPO	5
+Мат: Timur	19	RPO	5
+Мат: Lera	21	KB	5
+Тес: Artur	16	KB	5
+Мат: Artur	16	KB	5
+Artur	16	KB	5

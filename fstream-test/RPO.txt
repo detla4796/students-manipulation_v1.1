@@ -1,0 +1,3 @@
+Danil	18	RPO	5	5	5
+Artem	20	RPO	5	5	5
+Timur	19	RPO	4	3	5

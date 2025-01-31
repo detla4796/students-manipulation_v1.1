@@ -1,0 +1,7 @@
+Danil 18 RPO 5 5 5
+Artem 20 RPO 5 5 5
+Egor 13 KB 3 4 3 
+Sergey 15 KB 3 3 3
+Timur 19 RPO 4 3 5
+Lera 21 KB 3 4 5
+Artur 16 KB 2 5 5
